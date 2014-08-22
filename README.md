@@ -1,3 +1,3 @@
-hash_file
+hash-file
 =========
 just hash file
